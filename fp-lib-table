@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TXS0108E)(type Legacy)(uri D:/Kicad_Libraries_root/TXS0108E/TXS0108E.mod)(options "")(descr ""))
+  (lib (name Hirose_connectors)(type KiCad)(uri ${KIPRJMOD}/Hirose_connectors.pretty)(options "")(descr ""))
+)

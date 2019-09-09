@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Hirose_connectors)(type Legacy)(uri D:/ST7789_V_FCP_Board/Hirose_connectors.pretty/Hirose_connectors.lib)(options "")(descr ""))
+)
